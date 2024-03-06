@@ -12,4 +12,6 @@ Para rodá-lo, é necessário ter o pandas instalado, além do Python.
    
 3) Tendo feito estes procedimentos, abra o terminal neste diretório e execute o código:  
    a) No Windows: `python ScriptNomesVideos.py`  
-   b) No Linux (Ubuntu) ou Mac: `python3 ScriptNomesVideos.py`  
+   b) No Linux (Ubuntu) ou Mac: `python3 ScriptNomesVideos.py`
+
+OBS: É importante, também, se atentar aos nomes dos arquivos .txt ou .csv criados, para que possam ser alterados no script
