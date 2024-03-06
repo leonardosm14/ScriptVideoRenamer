@@ -8,7 +8,7 @@ Para rodá-lo, é necessário ter o pandas instalado, além do Python.
    
 2) Além dos arquivos .mp4 que irão ter os nomes trocados, é necessário ter dois arquivos de texto na pasta:  
    a) .txt (ou .csv) om os nomes, em ordem, que os vídeos irão receber  
-   b) .txt (ou .csv) VAZIO para que o script "ScriptPegarNomesDownload.py" consiga transcrever o novo dos arquivos .mp4
+   b) .txt (ou .csv) VAZIO para que o script "ScriptPegarNomesDownload.py" consiga transcrever o nome dos arquivos .mp4
    
 3) Tendo feito estes procedimentos, abra o terminal neste diretório e execute o código:  
    a) No Windows: `python ScriptNomesVideos.py`  
