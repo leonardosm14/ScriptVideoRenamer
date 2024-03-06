@@ -3,8 +3,8 @@ Este é um script básico em Python para a alteração de nomes de vídeos baixa
 Para rodá-lo, é necessário ter o pandas instalado, além do Python.
 
 1) Instalação do Pandas:
-   a) No Windows: `pip install pandas`
-   b) No Linux (Ubuntu) ou Mac: `pip3 install pandas`
+   -- No Windows: `pip install pandas`
+   -- No Linux (Ubuntu) ou Mac: `pip3 install pandas`
    
 2) Além dos arquivos .mp4 que irão ter os nomes trocados, é necessário ter dois arquivos de texto na pasta:
    a) .txt (ou .csv) om os nomes, em ordem, que os vídeos irão receber
