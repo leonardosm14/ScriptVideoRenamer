@@ -12,6 +12,8 @@ def listarNomes(src):
     for arquivo in os.listdir(src):
         if arquivo.endswith('.mp4'):
             listaNomes.append(arquivo)
+    #ordem alfabética
+    #listaNomes = sorted(listaNomes) 
           
     with open('NomesDownload.txt', 'w') as f:
         for nome in listaNomes:
